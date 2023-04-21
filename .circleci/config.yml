@@ -29,4 +29,3 @@ workflows:
           filters:
             branches:
               only: /main|beta|alpha/
-
