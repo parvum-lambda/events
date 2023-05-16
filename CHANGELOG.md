@@ -1,3 +1,10 @@
+# [1.0.0-alpha.2](https://github.com/parvum-lambda/events/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2023-05-16)
+
+
+### Bug Fixes
+
+* fixed parvum docker-compose.yml ([eb14cdf](https://github.com/parvum-lambda/events/commit/eb14cdf150a337950d3f55aa601b2b3e46a5d5d9))
+
 # 1.0.0-alpha.1 (2023-04-21)
 
 
