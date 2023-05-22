@@ -16,7 +16,7 @@ volumes:
 services:
   zookeeper:
     image: docker.io/bitnami/zookeeper:3.8
-    container_name: parvum.users-zookeeper-${PARVUM_VERSION}
+    container_name: parvum.events-zookeeper-${PARVUM_VERSION}
     volumes:
       - "zookeeper_data:/bitnami"
     environment:
@@ -25,7 +25,7 @@ services:
       events:
   kafka:
     image: docker.io/bitnami/kafka:3.3
-    container_name: parvum.users-kafka-${PARVUM_VERSION}
+    container_name: parvum.events-kafka-${PARVUM_VERSION}
     volumes:
       - "kafka_data:/bitnami"
     environment:
