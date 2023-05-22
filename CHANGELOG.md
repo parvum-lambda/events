@@ -1,3 +1,10 @@
+# [1.0.0-alpha.3](https://github.com/parvum-lambda/events/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2023-05-22)
+
+
+### Bug Fixes
+
+* service container names ([3579305](https://github.com/parvum-lambda/events/commit/357930569b58a0a7ccd9a0a79428446a131df19f))
+
 # [1.0.0-alpha.2](https://github.com/parvum-lambda/events/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2023-05-16)
 
 
