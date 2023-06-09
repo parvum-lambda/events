@@ -5,6 +5,22 @@
 
 * event using proper network ([1f6fd46](https://github.com/parvum-lambda/events/commit/1f6fd46e6a3b1f8b8e91ba735c68fc8dfb752285))
 * fixed parvum docker-compose.yml ([eb14cdf](https://github.com/parvum-lambda/events/commit/eb14cdf150a337950d3f55aa601b2b3e46a5d5d9))
+* kafka with wrong advertised listener url; ([be04cfd](https://github.com/parvum-lambda/events/commit/be04cfd56fa914906fc5c532b637df48d59ca048))
+* service container names ([89a764c](https://github.com/parvum-lambda/events/commit/89a764cf7a455f12350aefc48ce532d0656517ba))
+* service container names ([3579305](https://github.com/parvum-lambda/events/commit/357930569b58a0a7ccd9a0a79428446a131df19f))
+
+
+### Features
+
+* events base ([fcabf1a](https://github.com/parvum-lambda/events/commit/fcabf1a0e395f4deb2e936bb37fe1fd57165c336))
+
+# 1.0.0 (2023-06-09)
+
+
+### Bug Fixes
+
+* event using proper network ([1f6fd46](https://github.com/parvum-lambda/events/commit/1f6fd46e6a3b1f8b8e91ba735c68fc8dfb752285))
+* fixed parvum docker-compose.yml ([eb14cdf](https://github.com/parvum-lambda/events/commit/eb14cdf150a337950d3f55aa601b2b3e46a5d5d9))
 * service container names ([89a764c](https://github.com/parvum-lambda/events/commit/89a764cf7a455f12350aefc48ce532d0656517ba))
 * service container names ([3579305](https://github.com/parvum-lambda/events/commit/357930569b58a0a7ccd9a0a79428446a131df19f))
 
