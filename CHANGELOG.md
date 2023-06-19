@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/parvum-lambda/events/compare/v1.0.0...v1.0.1) (2023-06-19)
+
+
+### Bug Fixes
+
+* dummy commit; ([01162b2](https://github.com/parvum-lambda/events/commit/01162b22405f4779af888ef2c19176d522264a5f))
+
 # 1.0.0 (2023-06-09)
 
 
